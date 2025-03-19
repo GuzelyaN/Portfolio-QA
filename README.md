@@ -7,12 +7,18 @@ ISTQB-certified QA Engineer with 7+ years of experience in web and desktop testi
 
 ## SKILLS SUMMARY
 
-### Testing Tools and Technologies: Jira, Confluence, Swagger, Postman, Jenkins, Allure, IntelliJ IDEA, Selenium, Developer Tools (DevTools), Notion, CRM, XWand, IBM Cognos Analytics, Linux, Windows (platform/environment for testing), GitHub
-### Database Technologies: SQL, MySQL, Oracle, SQL Developer
-### Scripting/Markup Languages: JSON, XML, JavaScript, Java
-### Types of Testing: Functional, Regression, System, Exploratory, Integration, Compatibility, Installation, Usability, Localization, User Acceptance (UAT), Security,  Documentation 
-### Methodologies: Agile (Scrum, Kanban), Waterfall
-### Languages: English (B2), Russian (Native), Serbian (A2)
+### Testing Tools and Technologies: 
+ Jira, Confluence, Swagger, Postman, Jenkins, Allure, IntelliJ IDEA, Selenium, Developer Tools (DevTools), Notion, CRM, XWand, IBM Cognos Analytics, Linux, Windows (platform/environment for testing), GitHub
+### Database Technologies: 
+ SQL, MySQL, Oracle, SQL Developer
+### Scripting/Markup Languages: 
+ JSON, XML, JavaScript, Java
+### Types of Testing: 
+ Functional, Regression, System, Exploratory, Integration, Compatibility, Installation, Usability, Localization, User Acceptance (UAT), Security,  Documentation 
+### Methodologies: 
+ Agile (Scrum, Kanban), Waterfall
+### Languages: 
+ English (B2), Russian (Native), Serbian (A2)
 
 ## MY PROJECTS
 
